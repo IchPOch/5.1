@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\5.1F\5.1F\bin\Debug\5.1F.exe.config
+C:\Users\Aleks\source\repos\5.1F\5.1F\bin\Debug\5.1F.exe
+C:\Users\Aleks\source\repos\5.1F\5.1F\bin\Debug\5.1F.pdb
+C:\Users\Aleks\source\repos\5.1F\5.1F\obj\Debug\5.1F.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\5.1F\5.1F\obj\Debug\_5._1F.s.resources
+C:\Users\Aleks\source\repos\5.1F\5.1F\obj\Debug\_5._1F.Properties.Resources.resources
+C:\Users\Aleks\source\repos\5.1F\5.1F\obj\Debug\5.1F.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\5.1F\5.1F\obj\Debug\5.1F.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\5.1F\5.1F\obj\Debug\5.1F.exe
+C:\Users\Aleks\source\repos\5.1F\5.1F\obj\Debug\5.1F.pdb
